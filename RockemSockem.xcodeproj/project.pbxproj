@@ -114,8 +114,8 @@
 		885BB92317237A8B0077DC8F /* RSMWebSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSMWebSocket.h; sourceTree = "<group>"; };
 		885BB92417237A8B0077DC8F /* RSMWebSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSMWebSocket.m; sourceTree = "<group>"; };
 		885BB92517237A8B0077DC8F /* RSMWebSocket+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "RSMWebSocket+Private.h"; sourceTree = "<group>"; };
-		885BB92E17237B8A0077DC8F /* GCDAsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GCDAsyncSocket.h; path = External/CocoaAsyncSocket/GCD/GCDAsyncSocket.h; sourceTree = "<group>"; };
-		885BB92F17237B8A0077DC8F /* GCDAsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GCDAsyncSocket.m; path = External/CocoaAsyncSocket/GCD/GCDAsyncSocket.m; sourceTree = "<group>"; };
+		885BB92E17237B8A0077DC8F /* GCDAsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GCDAsyncSocket.h; path = External/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.h; sourceTree = "<group>"; };
+		885BB92F17237B8A0077DC8F /* GCDAsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GCDAsyncSocket.m; path = External/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m; sourceTree = "<group>"; };
 		885BB93417237B940077DC8F /* DDData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDData.h; sourceTree = "<group>"; };
 		885BB93517237B940077DC8F /* DDData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDData.m; sourceTree = "<group>"; };
 		885BB93617237B940077DC8F /* DDNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDNumber.h; sourceTree = "<group>"; };
